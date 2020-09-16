@@ -44,7 +44,7 @@ export default class BabyHog extends Component {
         </Button>
         
         <div className="hb-wrap">
-          <img src={this.cocolrHog[this.props.eyeColor]} style={{height: '200px'}} alt="src={normalBaby}" />
+          <img src={this.cocolrHog[this.props.eyeColor]} style={{height: '200px'}} alt="MasterBlasterJrJr" />
         </div>
         
       </li>
